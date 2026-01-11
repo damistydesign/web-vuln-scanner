@@ -1,0 +1,13 @@
+Flask==2.3.3
+selenium==4.11.2
+python-nmap==0.7.1
+beautifulsoup4==4.12.2
+requests==2.31.0
+webdriver-manager==3.9.1
+lxml==4.9.3
+urllib3==2.0.4
+
+# Instalación:
+# pip install -r requirements.txt
+
+# Instalar ChromeDriver automáticamente (se hace vía webdriver-manager)
