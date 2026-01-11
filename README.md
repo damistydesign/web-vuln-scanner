@@ -35,7 +35,7 @@ Framework: Flask + Selenium + Nmap
   - Límites de tasa configurable
   - Arquitectura del Sistema
 
-[!Captura de pantalla de demostración del Dashboard](Screenshot.png)
+[Captura de pantalla de demostración del Dashboard](Screenshot.png)
 
 ## Componentes Clave:
 **Core Engine:** Orquesta todos los escaneos
