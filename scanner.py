@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Web Vulnerability Scanner Avanzado - ToolKit de Seguridad
-Autor: Security Research Team
+Autor: DamiSty Design
 Versión: 2.0
 Propósito: Herramienta educativa para pruebas de penetración autorizadas
 """
@@ -1109,4 +1109,5 @@ if __name__ == "__main__":
         print("[+] Instalar con: pip install flask selenium python-nmap beautifulsoup4 requests")
         sys.exit(1)
     
+
     main()
